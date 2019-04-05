@@ -1,12 +1,7 @@
 [
 	{
 		"id":0,
-		"can_continue":false,
+		"can_continue":true,
 		"HWID":"b4ba41ee0dfe4c7cf0600ca32e5f41dfe04f9d1e3c9f73ad1cd5999bd72f3ad6"
-	},
-	{
-		"id":1,
-		"can_continue":false,
-		"HWID":"b4ba41ee0dfe4c7cf0600ca32e5f41dfe14f9d1e3c9f73ad1cd5999bd72f3ds7"
 	}
 ]
