@@ -10,5 +10,9 @@
 	{
 		"HWID":"60159705d2fc510f723787807234f91bc8ae67eaf6fd285a018f25ad9fdd9906",
 		"can_continue":true
+	},
+	{
+		"HWID":"e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+		"can_continue":true
 	}
 ]
